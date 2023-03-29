@@ -13,7 +13,9 @@ Refactoring is a key part of the coding process. In other words, refactoring a c
 The chart displayed below presents the results of the All Stocks macro that was executed for the year 2018. Several observations can be made from the information provided:
 
 -There are a total of 12 outcomes, out of which 10 of them resulted in negative returns, representing 83.33% of the total outcomes.
+
 -The stock with the worst performance was "DQ", which experienced a negative return of -62.6%.
+
 -There were only 2 positive returns observed, with "RUN" having the highest positive return of 84.0%, followed by "ENPH" with a positive return of 81.9%.
 
 ### Analysis for 2017
@@ -21,6 +23,9 @@ The chart displayed below presents the results of the All Stocks macro that was 
 The chart displayed below presents the results of the All Stocks macro that was executed for the year 2017. Several observations can be made from the information provided:
 
 -Overall, the solar energy industry appears to have had a successful year, with many stocks seeing positive returns.
+
 -The top three performers in terms of returns were "DQ", "SEDG", and "ENPH", with gains of 199.4%, 184.5%, and 129.5%, respectively.
+
 -There were only two stocks with negative returns: "AY" with a gain of 8.9%, and "TERP" with a loss of 7.2%.
+
 -It's worth noting that while positive returns are a good sign, further analysis is necessary to determine whether a stock is a good investment based on other factors such as company financials, industry trends, and overall market conditions.
