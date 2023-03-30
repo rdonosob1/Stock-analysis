@@ -12,6 +12,10 @@ Refactoring is a key part of the coding process. In other words, refactoring a c
 ### Analysis for 2018
 The chart displayed below presents the results of the All Stocks macro that was executed for the year 2018. Several observations can be made from the information provided:
 
+<p align="center">
+  <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/All%20Stocks%20-%202018.png" />
+</p>
+
 - There are a total of 12 outcomes, out of which 10 of them resulted in negative returns, representing 83.33% of the total outcomes.
 
 - The stock with the worst performance was "DQ", which experienced a negative return of -62.6%.
