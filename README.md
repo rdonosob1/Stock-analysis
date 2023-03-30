@@ -16,6 +16,7 @@ The chart displayed below presents the results of the All Stocks macro that was 
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/All%20Stocks%20-%202018.png" />
 </p>
 
+#### Summary for 2018 analysis
 - There are a total of 12 outcomes, out of which 10 of them resulted in negative returns, representing 83.33% of the total outcomes.
 
 - The stock with the worst performance was "DQ", which experienced a negative return of -62.6%.
@@ -30,6 +31,7 @@ The chart displayed below presents the results of the All Stocks macro that was 
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/All%20Stocks%20-%202017.png" />
 </p>
 
+#### Summary for 2017 analysis
 - Overall, the solar energy industry appears to have had a successful year, with many stocks seeing positive returns.
 
 - The top three performers in terms of returns were "DQ", "SEDG", and "ENPH", with gains of 199.4%, 184.5%, and 129.5%, respectively.
