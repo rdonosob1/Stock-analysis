@@ -41,13 +41,13 @@ The chart displayed below presents the results of the All Stocks macro that was 
 ### Refactoring eficiency results
 We achieved substantial enhancements in the refactoring of both codes for 2018 and 2017 respectively, as shown below:
 
-#### <u><b>Refactoring Stocks 2018<b><u>
+#### <u><b>Refactoring Stocks 2018</u>
 
 <p align="center">
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20Speed%202018.png" />
 </p>
 
-#### <u>Refactoring Stocks 2018<u>
+#### <u>Refactoring Stocks 2017</u>
 
   <p align="center">
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20speed%202017.png" />
