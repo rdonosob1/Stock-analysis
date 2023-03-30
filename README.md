@@ -47,9 +47,9 @@ We achieved substantial enhancements in the refactoring of both codes for 2018 a
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20Speed%202018.png" />
 </p>
 
-#### <u><b>Refactoring Stocks 2017<b><u>
+<h4 style="text-decoration: underline; font-weight: bold;">Refactoring Stocks 2017</h4>
 
-<p align="center">
+  <p align="center">
   <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20speed%202017.png" />
 </p>
 
