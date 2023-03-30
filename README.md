@@ -26,6 +26,10 @@ The chart displayed below presents the results of the All Stocks macro that was 
 
 The chart displayed below presents the results of the All Stocks macro that was executed for the year 2017. Several observations can be made from the information provided:
 
+<p align="center">
+  <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/All%20Stocks%20-%202017.png" />
+</p>
+
 - Overall, the solar energy industry appears to have had a successful year, with many stocks seeing positive returns.
 
 - The top three performers in terms of returns were "DQ", "SEDG", and "ENPH", with gains of 199.4%, 184.5%, and 129.5%, respectively.
@@ -33,3 +37,19 @@ The chart displayed below presents the results of the All Stocks macro that was 
 - There were only two stocks with negative returns: "AY" with a gain of 8.9%, and "TERP" with a loss of 7.2%.
 
 - It's worth noting that while positive returns are a good sign, further analysis is necessary to determine whether a stock is a good investment based on other factors such as company financials, industry trends, and overall market conditions.
+
+### Refactoring eficiency results
+We achieved substantial enhancements in the refactoring of both codes for 2018 and 2017 respectively, as shown below:
+
+#### **__Refactoring Stocks 2018__**
+
+<p align="center">
+  <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20Speed%202018.png" />
+</p>
+
+#### **__Refactoring Stocks 2017__**
+
+<p align="center">
+  <img src="https://github.com/rdonosob1/Stock-analysis/blob/main/Resources/Code%20speed%202017.png" />
+</p>
+
